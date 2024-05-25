@@ -1,7 +1,7 @@
 {
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://drive.google.com/file/d/1JO8BbQXD4hb7XFXw34oMpBAegJM_LK_F/view?usp=sharing"
+      "jsonLdContext": "https://github.com/ExoidRepo/ExoidSchemas/raw/main/email_verification/Email%20Verification.jsonld"
     },
     "version": "1.0",
     "type": "EmailVerification"
