@@ -1,0 +1,23 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "EmailVerification": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:36d7f4cc-2d5e-4816-b2b3-3a5ce3dd60ae#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "email": {
+                        "@id": "polygon-vocab:email",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:d1b28a21-e2f6-4c60-af87-7bd54a1eda1c"
+            }
+        }
+    ]
+}
